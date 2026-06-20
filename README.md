@@ -1,15 +1,105 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Yashwanth Goud</h1><br><br><h3 align="center"><br>Software Engineer Trainee | Frontend & Full-Stack Developer<br></h3><br><br><p align="center"><br>Passionate about building scalable web applications with React, TypeScript, FastAPI, and MySQL. Currently focused on creating production-ready products, improving system design skills, and contributing to impactful software solutions.<br></p><br><br>### 👨‍💻 About Me<br><br>🔭 I’m currently working on<br>RestaurantOS — a full-stack restaurant management platform with POS, analytics, billing, and role-based access control.<br><br>👯 I’m looking to collaborate on<br>Frontend, Full-Stack, and SaaS product development projects using React, TypeScript, and FastAPI.<br><br>🤝 I’m looking for help with<br>System Design, Cloud Technologies (AWS), and building scalable production-grade applications.<br><br>🌱 I’m currently learning<br>Advanced React Patterns, TypeScript, FastAPI, AWS, and Data Structures & Algorithms.<br><br>💬 Ask me about<br>React.js, TypeScript, FastAPI, Python, MySQL, REST APIs, Git, and Full-Stack Development.<br><br>⚡ Fun fact<br>I enjoy transforming real-world business problems into software solutions and have built projects ranging from Restaurant Management Systems to AI-powered Career Coaching platforms.
+<h1 align="center">Hi 👋, I'm Yashwanth Goud</h1>
 
+<h3 align="center">
+  Frontend & Full-Stack Developer | React | TypeScript | FastAPI
+</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yashuthigulla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yashuthigulla&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yashuthigulla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+Trainee;Frontend+Developer;Full-Stack+Developer;React+%7C+TypeScript+%7C+FastAPI;Building+real-world+software+products" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=yashuthigulla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🔭 I’m currently working on **RestaurantOS** — a full-stack restaurant management platform with POS, analytics, billing, and role-based access control.
+
+👯 I’m looking to collaborate on **Frontend, Full-Stack, and SaaS product development projects**.
+
+🤝 I’m looking for help with **System Design, Cloud Technologies, and Scalable Architectures**.
+
+🌱 I’m currently learning **Advanced React, TypeScript, AWS, FastAPI, and DSA in Python**.
+
+💬 Ask me about **React.js, TypeScript, FastAPI, Python, MySQL, REST APIs, Git, and Full-Stack Development**.
+
+⚡ Fun fact: I enjoy turning real-world business problems into software products.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yashwanth1369/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yashwanthgoud1369@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yashuthigulla">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mysql,firebase" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🍽️ RestaurantOS
+Full-stack restaurant management platform with POS, dashboard analytics, role-based access, billing, and PDF invoice generation.
+
+**Tech Stack:** React, TypeScript, FastAPI, MySQL, Tailwind CSS, Recharts
+
+---
+
+### ♻️ Swachify
+Smart Waste Management Platform with real-time route tracking, geolocation services, mobile workforce management, and offline-first capabilities.
+
+**Tech Stack:** React Native, Flutter, .NET Core, Firebase, Google Maps API
+
+---
+
+### 🤖 AI Resume + Interview Coach
+AI-powered career preparation platform with resume ATS analysis, interview questions, LinkedIn headline generation, and personalized feedback.
+
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, Google Gemini API
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashuthigulla&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashuthigulla&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashuthigulla&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
